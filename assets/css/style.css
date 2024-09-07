@@ -107,17 +107,13 @@ img{
         border: 8px solid var(--color-brand2);
     }
 
-    
-}
-
-
-/* content wrapper */
-
+    /* content wrapper */
 #content-wrapper{
     padding-left: var(--sidbar-width);
 }
 /* //content wrapper */
-
+  
+}
 
 /* button */
 .btn{
